@@ -1,0 +1,4 @@
+- learn about relative units 
+- em and rem 
+- why we should not use em for font size.
+  - we can use em for margin, padding, etc. but for font size "rem".
